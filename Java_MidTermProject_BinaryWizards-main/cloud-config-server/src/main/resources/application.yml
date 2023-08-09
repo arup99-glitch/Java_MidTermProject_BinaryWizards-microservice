@@ -1,0 +1,20 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:Arup-98/cloud-config-server.git
+          username: Arup_98
+          password: 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
+          default-label: main
+      label: main
+      name: cloud-config-server
+      profile: development
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761/eureka

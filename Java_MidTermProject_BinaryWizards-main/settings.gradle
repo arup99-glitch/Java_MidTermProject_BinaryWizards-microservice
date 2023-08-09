@@ -1,0 +1,8 @@
+rootProject.name = 'Online-Book-Shop-Micro-Service-Application'
+include 'discovery-server'
+include 'api-gateway'
+include 'authentication-service'
+include 'book-service'
+include 'book-inventory'
+include 'cloud-config-server'
+
