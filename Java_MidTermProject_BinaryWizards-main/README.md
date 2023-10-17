@@ -66,13 +66,6 @@ The application will run at http://localhost:8080
 
 <br>
 
-## Contributors
 
-| Name                 | Email                            |
-|----------------------|----------------------------------|
-| Md. Mehedi Hassan    | mdmehedi.hassan@bjitacademy.com  |
-| Barha Meherun Pritha | meherun.pritha@bjitacademy.com   |
-| Md. Taslim           | md.taslim@bjitacademy.com        |
-| Arup Chakraborty     | arup.chakraborty@bjitacademy.com |
 
 <br>
